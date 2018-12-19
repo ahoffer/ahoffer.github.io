@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.ahoffer</groupId>
+  <artifactId>api</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20181219.152543</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20181219152543</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0-20181219.152543-1</value>
+        <updated>20181219152543</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0-20181219.152543-1</value>
+        <updated>20181219152543</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
